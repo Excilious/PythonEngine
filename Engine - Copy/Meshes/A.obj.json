@@ -1,0 +1,15 @@
+{
+  "created_at": "2024-01-18T21:53:14.209506",
+  "version": "0.1",
+  "mtllibs": [
+    "A.mtl"
+  ],
+  "vertex_buffers": [
+    {
+      "material": "Meshpart1Mtl",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 0,
+      "byte_length": 363264
+    }
+  ]
+}
